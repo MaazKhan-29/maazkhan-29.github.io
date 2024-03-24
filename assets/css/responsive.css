@@ -488,4 +488,7 @@
 	.site-footer .col-xs-offset-3 {
 		margin-left: 0;
 	}
+	.col-md-6 {
+		padding-bottom: 156px;
+	}
 }
