@@ -39,6 +39,16 @@
 	.modal-header {
 		height: 400px;
 	}
+	.img {
+		margin-left: -5px;
+	}
+
+	.col-md-6 {
+		padding-bottom: 280px;
+		width: 770px;
+		margin-right: -139px;
+	}
+}
 }
 
 /* Medium Devices, Desktops */
