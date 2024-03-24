@@ -627,4 +627,6 @@ a.icon-up-bg:hover {
     margin-left: 100px;
     display: flex;
 }
-
+.col-md-6 {
+    padding-bottom: 200px;
+}
