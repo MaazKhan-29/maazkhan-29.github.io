@@ -1,6 +1,18 @@
 /*==========  Non-Mobile First Method  ==========*/
 
 /* Large Devices, Wide Screens */
+@media only screen and (max-width : 1366px) {
+	.img {
+		border-radius: 185px;
+		padding-top: 95px;
+		margin-left: 100px;
+		display: flex;
+	}
+
+	.col-md-6 {
+		padding-bottom: 320px;
+	}
+}
 @media only screen and (max-width : 1199px) {
 
 	/* HEADER
