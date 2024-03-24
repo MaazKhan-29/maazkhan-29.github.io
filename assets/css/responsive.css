@@ -492,3 +492,16 @@
 		padding-bottom: 156px;
 	}
 }
+
+@media only screen and (max-width : 415px) {
+	.img {
+		border-radius: 185px;
+		padding-top: 64px;
+		margin-left: 76px;
+		display: flex;
+	}
+
+	.col-md-6 {
+		padding-bottom: 190px;
+	}
+}
