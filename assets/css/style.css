@@ -622,6 +622,9 @@ a.icon-up-bg:hover {
     padding: 0;
 }
 .img{
-border-radius: 140px;
-    padding-top:20px ;
+    border-radius: 150px;
+    padding-top: 200px;
+    margin-left: 100px;
+    display: flex;
 }
+
