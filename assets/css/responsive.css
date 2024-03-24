@@ -82,6 +82,15 @@
 	.hero img {
 		height: 420px;
 	}
+	.img {
+		margin-left: -50px;
+	}
+
+	.col-md-6 {
+		padding-bottom: 332px;
+		width: 698px;
+		margin-right: -139px;
+	}
 
 	/* SITEMAIN
 	================================================== */
@@ -145,15 +154,7 @@
 	.modal-header {
 		height: 350px;
 	}
-	.img {
-		margin-left: -50px;
-	}
-
-	.col-md-6 {
-		padding-bottom: 332px;
-		width: 698px;
-		margin-right: -139px;
-	}
+	
 }
 
 /* Small Devices, Tablets */
