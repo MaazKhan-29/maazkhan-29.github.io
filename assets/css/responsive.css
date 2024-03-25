@@ -533,22 +533,23 @@
 	}
 }
 
-@media only screen and (max-width : 415px) {
+@media only screen and (max-width : 393px) and (max-height: 873px) {
 	.img {
 		border-radius: 185px;
 		padding-top: 147px;
-		margin-left: 56px;
+		margin-left: 93px;
 		margin-top: -95px;
 		display: flex;
 	}
 
 	.col-md-6 {
-		padding-bottom: 7px;
-		width: 329px;
+		padding-bottom: 250px;
+		width: 405px;
 		margin-right: -10px;
 	}
 
 	.col-md-offset-3 {
-		width: 311px;
+		width: 387px;
 	}
+}
 }
