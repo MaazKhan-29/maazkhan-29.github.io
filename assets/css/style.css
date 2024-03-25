@@ -236,12 +236,12 @@ body {
 
 /* HERO
 ================================================== */
-.hero {
+/* .hero {
     background: url(../img/hero.jpg) no-repeat center / cover;
     height: 100%;
     width: 100%;
     min-height: 700px;
-}
+} */
 
 .hero .container {
     position: relative;
@@ -554,7 +554,6 @@ body {
 /* FOOTER
 ================================================== */
 .site-footer {
-    position: fixed;
     bottom: 0;
     padding: 30px 0;
     width: 100%;
@@ -621,12 +620,14 @@ a.icon-up-bg:hover {
     margin: 0;
     padding: 0;
 }
-.img{
+
+.img {
     border-radius: 150px;
     padding-top: 200px;
     margin-left: 100px;
     display: flex;
 }
+
 .col-md-6 {
     padding-bottom: 200px;
 }
