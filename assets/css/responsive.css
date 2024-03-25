@@ -537,19 +537,19 @@
 	.img {
 		border-radius: 185px;
 		padding-top: 147px;
-		margin-left: 96px;
+		margin-left: 93px;
 		margin-top: -95px;
 		display: flex;
 	}
 
 	.col-md-6 {
-		padding-bottom: 250px;
+		margin-bottom: -365px;
 		width: 405px;
 		margin-right: -10px;
 	}
 
 	.col-md-offset-3 {
 		width: 387px;
+		height: 2004px;
 	}
-}
 }
