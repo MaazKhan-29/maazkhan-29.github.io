@@ -537,7 +537,7 @@
 	.img {
 		border-radius: 185px;
 		padding-top: 147px;
-		margin-left: 93px;
+		margin-left: 50px;
 		margin-top: -95px;
 		display: flex;
 	}
@@ -556,11 +556,12 @@
 
 @media only screen and (max-width : 380px) and (max-height: 900px) {
 	.img {
-		
+		border-radius: 200px;
 		padding-top: 147px;
-		
+		margin-left: 50px;
 		margin-top: -95px;
 		display: flex;
+
 	}
 
 	.col-md-6 {
