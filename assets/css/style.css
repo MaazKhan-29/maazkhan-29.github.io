@@ -244,7 +244,7 @@ body {
     min-height: 700px;
 } */
 .hero {
-    background-image: linear-gradient(to bottom, #a360076e, white);
+    background-image: linear-gradient(to bottom, rgb(99, 76, 47), white);
 }
 .hero .container {
     position: relative;
