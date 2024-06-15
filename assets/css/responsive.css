@@ -558,7 +558,7 @@
 	.img {
 		border-radius: 200px;
 		padding-top: 147px;
-		margin-left: 50px;
+		margin-left: -50px;
 		margin-top: -95px;
 		display: flex;
 
