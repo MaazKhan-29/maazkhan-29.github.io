@@ -248,9 +248,7 @@ body {
     position: relative;
     height: 100%;
 }
-.hero{
-background-image: linear-gradient(to bottom, #a360076e, white);
-}
+
 
 .hero .col-md-6:first-child {
     position: absolute;
