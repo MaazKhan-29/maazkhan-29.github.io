@@ -285,6 +285,7 @@ body {
 
 .hero img {
     height: 600px;
+    border-radius:360px ;
 }
 
 /* SITEMAIN
